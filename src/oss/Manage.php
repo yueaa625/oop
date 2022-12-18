@@ -1,5 +1,5 @@
 <?php
-namespace Yueaa625\Oop\src\oss;
+namespace Yueaa625\Oop\oss;
 class Manage
 {
     public function index()
