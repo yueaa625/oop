@@ -1,0 +1,17 @@
+{
+    "name": "yueaa625/oop",
+    "description": "test",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Yueaa625\\Oop\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jojo",
+            "email": "jojo@163.com"
+        }
+    ],
+    "require": {}
+}
